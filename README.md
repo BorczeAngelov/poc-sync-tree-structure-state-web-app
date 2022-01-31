@@ -1,5 +1,2 @@
-# http-vs-web-socket-fullstack-chat
-Proof of concept: Build fullstack (Angular &amp; Spring Boot) chat app, demonstrating HTTP and WebSocket API protocols. The app should be deployable and run on Amazon AWS cloud.
-
-App is deployed on AWS and can be found on custom domain:
-http://borcze-angelov-demo.com/
+# poc-sync-tree-structure-state-web-app
+Proof of concept: Using Angular and Spring Boot, build web app which will share a tree structure state between browser clients.
